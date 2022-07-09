@@ -1,6 +1,6 @@
 ### Hi I'm Cristian 👋
 
-I'm a former Registered Dietitian turned software developer. 
+I'm a Software Developer and Registered Dietitian.
 
 ## 🔭 I'm currently working on
 
