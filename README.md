@@ -4,13 +4,12 @@ I'm a Software Developer and Registered Dietitian.
 
 ## 🔭 I'm currently working on
 
-- Diabetes Meal Planning app using Spoonacular API
-- Ecommerce backend application
+- [The Diabetes Calculator](https://thediabetescalculator.com)
+- Mobile app version of The Diabetes Calculator using React Native
 
 ## 🌱 I'm currently learning
  
-- TypeScript
-- PostgreSQL 
+- React Native 
 - Docker
 
 ## 📈 GitHub Stats 
