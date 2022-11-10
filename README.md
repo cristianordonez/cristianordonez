@@ -4,13 +4,13 @@ I'm a Software Developer and Registered Dietitian.
 
 ## 🔭 I'm currently working on
 
-- [The Diabetes Calculator](https://thediabetescalculator.com)
-- Mobile app version of The Diabetes Calculator using React Native
+- [The Macro Trainer](https://themacrotrainer.com)
+- Using React Native and Redux
 
 ## 🌱 I'm currently learning
  
 - React Native 
-- Docker
+- Redux
 
 ## 📈 GitHub Stats 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=cristianordonez&theme=nightowl&hide=stars,issues&show_icons=true" />
