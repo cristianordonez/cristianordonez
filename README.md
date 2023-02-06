@@ -2,15 +2,10 @@
 
 I'm a Software Developer and Registered Dietitian.
 
-## 🔭 I'm currently working on
-
-- [The Macro Trainer](https://themacrotrainer.com)
-- Using React Native and Redux
-
 ## 🌱 I'm currently learning
  
-- React Native 
-- Redux
+- Python  
+- Azure
 
 ## 📈 GitHub Stats 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=cristianordonez&theme=nightowl&hide=stars,issues&show_icons=true" />
