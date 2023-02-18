@@ -4,7 +4,8 @@ I'm a Software Developer and Registered Dietitian.
 
 ## 🌱 I'm currently learning
  
-- Python  
+- Elasticsearch
+- Machine Learning
 - Azure
 
 ## 📈 GitHub Stats 
