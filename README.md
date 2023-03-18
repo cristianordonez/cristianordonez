@@ -7,6 +7,7 @@ I'm a Software Developer and Registered Dietitian.
 - Elasticsearch
 - Machine Learning
 - Azure
+- Python
 
 ## 📈 GitHub Stats 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=cristianordonez&theme=nightowl&hide=stars,issues&show_icons=true" />
