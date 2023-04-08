@@ -6,6 +6,7 @@ I'm a Software Developer and Registered Dietitian.
  
 - Google Cloud
 - Django
+- Machine Learning
 
 ## 📈 GitHub Stats 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=cristianordonez&theme=nightowl&hide=stars,issues&show_icons=true" />
