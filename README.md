@@ -5,7 +5,8 @@ I'm a Software Developer and Registered Dietitian.
 ## 🌱 I'm currently learning
  
 - Google Cloud
-- Django
+- Python/Fast API
+- React
 - Machine Learning
 
 ## 📈 GitHub Stats 
