@@ -4,6 +4,7 @@ I'm a Software Developer and Registered Dietitian.
 
 ## 🌱 I'm currently learning
  
-- React
-- Python
+- Databricks
+- Spark
+- BigQuery
 
